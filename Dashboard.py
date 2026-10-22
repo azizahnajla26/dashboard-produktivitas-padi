@@ -404,7 +404,7 @@ skripsi mahasiswa Politeknik Statistika STIS Program Studi D-IV Komputasi Statis
         """
 <div class="ab-info">
 <span class="em">💡</span>
-<div>Model terbaik yang diperoleh adalah <b><i>Ridge</i></b> dengan fitur akhir
+<div>Model terbaik yang diperoleh adalah <b><i>Ridge</i></b> dengan fitur akhir EVI dan agroklimatologi 
 <b><i>lag</i> 2 dengan <i>dummy</i> kabupaten/kota</b>.</div>
 </div>
 """,
@@ -477,7 +477,7 @@ yang tidak tertangkap variabel model.</p>
 </div>
 <div class="ab-banner">
 <span style="font-size:1.3rem">ℹ️</span>
-<span>Model dengan pengintegrasian EVI dan variabel agroklimat (curah hujan, suhu udara,
+<span>Model dengan pengintegrasian EVI dan variabel agroklimatologi (curah hujan, suhu udara,
 <i>soil moisture</i>, dan <i>solar radiation</i>) belum sepenuhnya menangkap perubahan tajam
 di beberapa wilayah, dengan galat yang tidak seragam antarperiode maupun antarwilayah.</span>
 </div>
