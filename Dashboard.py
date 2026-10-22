@@ -393,7 +393,7 @@ def halaman_about():
 <div class="ab-card">
 <i>Dashboard</i> ini memvisualisasikan hasil <i>nowcasting</i> produktivitas padi Provinsi Sumatera Barat
 pada level provinsi dan kabupaten/kota, dalam cakupan bulanan maupun <i>subround</i>. Tujuannya membantu
-pemantauan kondisi produksi padi secara sebelum data aktual dipublikasi. <i>Dashboard</i> ini dibangun sebagai artefak
+pemantauan kondisi produktivitas padi sebelum data aktual dipublikasi. <i>Dashboard</i> ini dibangun sebagai artefak
 skripsi mahasiswa Politeknik Statistika STIS Program Studi D-IV Komputasi Statistik.
 </div>
 """,
