@@ -412,9 +412,9 @@ skripsi mahasiswa Politeknik Statistika STIS Program Studi D-IV Komputasi Statis
     )
 
     k1, k2, k3 = st.columns(3)
-    k1.markdown(kartu("R²", "0,728652"), unsafe_allow_html=True)
-    k2.markdown(kartu("MAE", "3,686032", "ku/ha"), unsafe_allow_html=True)
-    k3.markdown(kartu("RMSE", "4,610228", "ku/ha"), unsafe_allow_html=True)
+    k1.markdown(kartu("R²", "0,726679"), unsafe_allow_html=True)
+    k2.markdown(kartu("MAE", "3,718341", "ku/ha"), unsafe_allow_html=True)
+    k3.markdown(kartu("RMSE", "4,626186", "ku/ha"), unsafe_allow_html=True)
 
     # ---------- Data dan metodologi ----------
     st.markdown('<div class="ab-judul">Data dan Metodologi</div>', unsafe_allow_html=True)
